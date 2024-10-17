@@ -1,15 +1,15 @@
-# HIN-ventures
+# HIN-Ventures
 
 PROSJEKT ARBEID I WEBAPPLIKASJONER 2.
 
 Av : Halil Ibrahim Keser, Irina Balkerova, Tore Bjerkan
 
 Prosjektbeskrivelse (fra faglærer):
-Webutviklingsfirma HIN-ventures er et mellomstort webutviklingsfirma med 10 faste ansatte. Flere av disse er prosjektledere og blant disse er noen senior utviklere med mange års erfaring. Firmaet tar på seg oppdrag fra små og store aktører i inn og utland. De har en stor andel faste kunder.  De benytter seg i stor grad av frilansere til å løse oppdrag fra kunder.
+Webutviklingsfirma HIN-Ventures er et mellomstort webutviklingsfirma med 10 faste ansatte. Flere av disse er prosjektledere og blant disse er noen senior utviklere med mange års erfaring. Firmaet tar på seg oppdrag fra små og store aktører i inn og utland. De har en stor andel faste kunder.  De benytter seg i stor grad av frilansere til å løse oppdrag fra kunder.
 
-HIN-ventures har en god del småoppdrag som går ut på å legge til enkel funksjonalitet i eksisterende kodebase for en kunde. Dette skaper en del papirarbeid og tar mye ressurser fra prosjektlederne og seniorutviklerne. Derfor ønsker HIN-ventures å få utviklet en løsning som gjør at kundene kommer i direkte kontakt med frilanserne, men at all kode og betaling går igjennom HIN-ventures.
+HIN-Ventures har en god del småoppdrag som går ut på å legge til enkel funksjonalitet i eksisterende kodebase for en kunde. Dette skaper en del papirarbeid og tar mye ressurser fra prosjektlederne og seniorutviklerne. Derfor ønsker HIN-Ventures å få utviklet en løsning som gjør at kundene kommer i direkte kontakt med frilanserne, men at all kode og betaling går igjennom HIN-Ventures.
 
-HIN-ventures ser for seg en portal hvor frilanserne registrerer seg med sine spesialfelt og får betalt for antall linjer kode de leverer til kunden. Kunden kan abonnere på portalen, og får tilgang til et viss antall linjer kode for en gitt pris.
+HIN-Ventures ser for seg en portal hvor frilanserne registrerer seg med sine spesialfelt og får betalt for antall linjer kode de leverer til kunden. Kunden kan abonnere på portalen, og får tilgang til et viss antall linjer kode for en gitt pris.
 
 Kunden skal ha mulighet for å kunne enten velge mellom frilanserne, eller forespørre etter en frilanser basert på spesialfelt. Dersom kunden forespør etter en frilanser basert på spesialfelt, bør det fungere på først til mølla basis. Dvs. første frilanser som griper tak i forespørselen får den. Det bør være mulighet for kunden å kunne chatte med frilanseren i portalen. En frilanser bør kunne utføre deler av et oppdrag, andre frilansere kan overta og fortsette på oppdraget, arbeidet som er utført av hver frilanser må kunne registreres,
 
